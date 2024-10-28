@@ -1,3 +1,6 @@
 [submodule "q3_xv6-public"]
 	path = q3_xv6-public
 	url = https://github.com/mit-pdos/xv6-public.git
+[submodule "q1_2_xv6-public"]
+	path = q1_2_xv6-public
+	url = https://github.com/mit-pdos/xv6-public.git
